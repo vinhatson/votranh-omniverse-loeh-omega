@@ -130,5 +130,4 @@ This project is licensed under the Apache License, Version 2.0. See the LICENSE 
 For questions, resonance, or collaboration, reach out via GitHub Issues or connect with Vi Nhat Son vinhatson@gmail.com.
 
 **Let the Omniverse resonate through you.**
-## Donate: 
-## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
+
